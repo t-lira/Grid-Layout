@@ -1,0 +1,14 @@
+*{
+  box-sizing: 0;
+  padding: 0;
+  margin: 0;
+  font-family: "Vollkorn", Georgia, serif;
+}
+
+li{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+}
